@@ -1,0 +1,7 @@
+name: ChatTime
+version: ${project.version}
+main: de._coho04_.chattime.main
+api-version: 1.16
+authors: [ _Coho04_ ]
+description: Zeigt die Zeit im Chat an!
+website: https://discord.com/invite/geBR3qdhqD
