@@ -12,7 +12,7 @@ public class Event implements Listener {
 
     @EventHandler
     public void onMessage(AsyncPlayerChatEvent e) {
-        Player p = (Player)e.getPlayer();
+        Player p = e.getPlayer();
         DateTimeFormatter dtf5 = DateTimeFormatter.ofPattern("HH:mm:ss");
         e.setFormat("§6[§a" + dtf5.format(LocalDateTime.now()) + "§6] §r" + p.getDisplayName() + " » " + e.getMessage());
     }
