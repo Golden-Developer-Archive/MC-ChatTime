@@ -1,7 +1,7 @@
 name: ChatTime
 version: ${project.version}
-main: de._coho04_.chattime.Main
+main: de.goldendeveloper.chattime.Main
 api-version: 1.16
-authors: [ _Coho04_ ]
+authors: [ Golden-Developer ]
 description: Zeigt die Zeit im Chat an!
-website: https://coho04.de/
+website: https://Golden-Developer.de/

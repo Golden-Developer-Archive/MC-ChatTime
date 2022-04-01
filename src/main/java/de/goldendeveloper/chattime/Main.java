@@ -1,4 +1,4 @@
-package de._coho04_.chattime;
+package de.goldendeveloper.chattime;
 
 import org.bukkit.Bukkit;
 import org.bukkit.plugin.java.JavaPlugin;
